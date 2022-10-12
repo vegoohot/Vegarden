@@ -6,8 +6,8 @@
 
 # 梦想开始的地方
 ---
-- 导航：https://whimsical-dieffenbachia-7cafc5.netlify.app/
-- 导航：https://vegoo.netlify.app/
+- 导航： https://whimsical-dieffenbachia-7cafc5.netlify.app/
+- 导航： https://vegoo.netlify.app/
 ---
 
 ## 卡片机
