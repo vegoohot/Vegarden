@@ -9,12 +9,12 @@
 - 导航：https://whimsical-dieffenbachia-7cafc5.netlify.app/
 ---
 
-
 ## 卡片机
  
 - [[pages/幂律分布|幂律分布]]
 - [[pages/知识IPO|知识IPO]]
 
+测试
 
 ## 乱入
 - 待定
