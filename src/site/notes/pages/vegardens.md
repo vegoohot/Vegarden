@@ -12,8 +12,8 @@
 
 ## 卡片机
  
-- [[pages/幂律分布|幂律分布]]
-- [[pages/知识IPO|知识IPO]]
+- [[pages/Milvfenbu|Milvfenbu]]
+- [[pages/IPO|IPO]]
 - [[pages/一键发布插件|一键发布插件]]
 
 还是很多不太顺
