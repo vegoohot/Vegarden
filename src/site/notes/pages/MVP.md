@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/mvp/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/pages/mvp/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":false}
 ---
 
 
