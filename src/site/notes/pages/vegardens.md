@@ -15,6 +15,7 @@
 - [[pages/Milvfenbu|Milvfenbu]]
 - [[pages/IPO|IPO]]
 - [[pages/一键发布插件|一键发布插件]]
+- qiguai 
 
 还是很多不太顺
 
